@@ -120,5 +120,3 @@ dist
 #보안
 package-lock.json
 
-#보안
-.env
